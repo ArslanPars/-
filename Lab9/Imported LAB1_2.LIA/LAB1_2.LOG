@@ -1,0 +1,49 @@
+PCAD Importer Log
+Project : LAB1_2.LibPkg
+
+Section : D:\–ÛÒÎ‡Ì\”˜Â·‡\“œ —\Libs\LAB1_2.LIA
+    Section : PCB Library - LAB1_2.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 129
+            Warning - 1 : Skipping Token defaultPinDes On Line 130
+            Warning - 1 : Skipping Token defaultPinDes On Line 131
+            Warning - 1 : Skipping Token defaultPinDes On Line 132
+            Warning - 1 : Skipping Token defaultPinDes On Line 133
+            Warning - 1 : Skipping Token defaultPinDes On Line 134
+            Warning - 1 : Skipping Token defaultPinDes On Line 135
+            Warning - 1 : Skipping Token defaultPinDes On Line 136
+            Warning - 1 : Skipping Token defaultPinDes On Line 137
+            Warning - 1 : Skipping Token defaultPinDes On Line 138
+            Warning - 1 : Skipping Token defaultPinDes On Line 139
+            Warning - 1 : Skipping Token defaultPinDes On Line 140
+            Warning - 1 : Skipping Token defaultPinDes On Line 141
+            Warning - 1 : Skipping Token defaultPinDes On Line 142
+            Warning - 1 : Skipping Token defaultPinDes On Line 143
+            Warning - 1 : Skipping Token defaultPinDes On Line 144
+            Warning - 1 : Skipping Token defaultPinDes On Line 145
+            Warning - 1 : Skipping Token defaultPinDes On Line 146
+            Warning - 1 : Skipping Token defaultPinDes On Line 147
+            Warning - 1 : Skipping Token defaultPinDes On Line 148
+            Warning - 1 : Skipping Token defaultPinDes On Line 149
+            Warning - 1 : Skipping Token defaultPinDes On Line 150
+            Warning - 1 : Skipping Token defaultPinDes On Line 151
+            Warning - 1 : Skipping Token defaultPinDes On Line 152
+            Warning - 1 : Skipping Token defaultPinDes On Line 153
+            Warning - 1 : Skipping Token defaultPinDes On Line 154
+            Warning - 1 : Skipping Token defaultPinDes On Line 155
+            Warning - 1 : Skipping Token defaultPinDes On Line 156
+            Warning - 1 : Skipping Token defaultPinDes On Line 179
+            Warning - 1 : Skipping Token defaultPinDes On Line 180
+            Warning - 1 : Skipping Token defaultPinDes On Line 222
+            Warning - 1 : Skipping Token defaultPinDes On Line 223
+            Warning - 1 : Skipping Token attachedSymbol On Line 248
+            Warning - 1 : Skipping Token attachedSymbol On Line 268
+            Warning - 1 : Skipping Token attachedSymbol On Line 314
+            Warning - 1 : Skipping Token attachedSymbol On Line 361
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [KP303][Primary] associated with PCAD Component [ œ303] has been renamed to PCB FootPrint [KP303_ œ303(Primary)].
+        EndSection
+    EndSection
+EndSection

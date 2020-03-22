@@ -1,0 +1,47 @@
+PCAD Importer Log
+Project : LAB3+.LibPkg
+
+Section : D:\пСЯКЮМ\сВЕАЮ\ройя\Libs\LAB3+.LIA
+    Section : PCB Library - LAB3+.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token K1.1 On Line 131
+            Warning - 1 : Skipping Token рок277-127/220-50 On Line 159
+            Warning - 1 : Skipping Token attachedSymbol On Line 250
+            Warning - 1 : Skipping Token attachedSymbol On Line 277
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [K1.1][Primary] associated with PCAD Component [K1.1] has been renamed to PCB FootPrint [K1.1_K1.1(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [роо 277-127/220-50][Primary] associated with PCAD Component [роо 277-127/220-50] has been renamed to PCB FootPrint [роо 277-127/220-50_роо 277-127/220-50(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - LAB3+.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token viaStyleDef On Line 23
+            Warning - 1 : Skipping Token multiLayer On Line 83
+            Warning - 1 : Skipping Token layerContents On Line 89
+            Warning - 1 : Skipping Token layerContents On Line 93
+            Warning - 1 : Skipping Token multiLayer On Line 107
+            Warning - 1 : Skipping Token layerContents On Line 117
+            Warning - 1 : Skipping Token layerContents On Line 121
+            Warning - 1 : Skipping Token defaultPinDes On Line 138
+            Warning - 1 : Skipping Token defaultPinDes On Line 145
+            Warning - 1 : Skipping Token defaultPinDes On Line 152
+            Warning - 1 : Skipping Token defaultPinDes On Line 166
+            Warning - 1 : Skipping Token defaultPinDes On Line 173
+            Warning - 1 : Skipping Token defaultPinDes On Line 180
+            Warning - 1 : Skipping Token defaultPinDes On Line 187
+            Warning - 1 : Skipping Token defaultPinDes On Line 194
+            Warning - 1 : Skipping Token defaultPinDes On Line 201
+            Warning - 1 : Skipping Token defaultPinDes On Line 208
+            Warning - 1 : Skipping Token defaultPinDes On Line 215
+        EndSection
+
+        Section : Generating SCH Library - LAB3+.SchLib
+            Warning - 0 : PCAD Pattern Graphics [K1.1][Primary] associated with PCAD Component [K1.1] has been renamed to PCB FootPrint [K1.1_K1.1(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [роо 277-127/220-50][Primary] associated with PCAD Component [роо 277-127/220-50] has been renamed to PCB FootPrint [роо 277-127/220-50_роо 277-127/220-50(Primary)].
+        EndSection
+    EndSection
+EndSection
